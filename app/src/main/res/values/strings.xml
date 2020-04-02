@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Luniva</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+
+    <string-array name="patient_cities">
+        <item>Select City</item>
+        <item>Katmandu</item>
+        <item>Pokhara</item>
+        <item>Biratnagar</item>
+        <item>Dharan</item>
+        <item>Janakpur</item>
+    </string-array>
+</resources>

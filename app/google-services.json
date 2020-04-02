@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297474237856",
+    "firebase_url": "https://luniva-74928.firebaseio.com",
+    "project_id": "luniva-74928",
+    "storage_bucket": "luniva-74928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297474237856:android:844b7f1f441ce3a98830c5",
+        "android_client_info": {
+          "package_name": "com.samir.luniva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297474237856-35kdf8n6p6gglechvtdrrl70aaktaepe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samir.luniva",
+            "certificate_hash": "d99eea7530dd9e0e34665fadaeae955c30f6d10d"
+          }
+        },
+        {
+          "client_id": "297474237856-j7gc6r5o6tji4udd6b8q549d3jpqkagv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24OCl-JVaWyg4SRVLZvXprlucekhPTNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297474237856-j7gc6r5o6tji4udd6b8q549d3jpqkagv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
